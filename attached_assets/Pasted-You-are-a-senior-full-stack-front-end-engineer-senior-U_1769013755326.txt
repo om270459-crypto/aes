@@ -1,0 +1,153 @@
+You are a senior full-stack front-end engineer + senior UI/UX designer + cinematic animator.
+Build me a romantic futuristic Valentine's website for Replit with:
+• heavy animation
+• cinematic motion
+• neon love aesthetics
+• digital sanctuary feeling
+• fluid flow motion
+• dreamy immersive visuals
+• emotionally romantic & intimate mood
+• futuristic cyber-romantic energy
+
+Tone aesthetic = Full Fusion (A+B+C+D):
+(A) Soft Romantic Cinema
+(B) Cyber-Romantic Neon Digital Sanctuary
+(C) Luxury Silky Premium Gradients
+(D) Dreamy Emotional Particles + Haze + Hearts
+
+Website goals:
+• cinematic Valentine experience
+• immersive storytelling
+• romantic digital love letter
+• modern & professional
+• high motion density
+• high visual fidelity
+• fluid, glossy, dreamy, neon
+
+Stylistic elements (mandatory):
+1. glass morphism
+2. digital sanctuary
+3. flow / fluidity
+4. neon romance
+5. dreamy gradients
+6. soft haze & glow
+7. particle systems
+8. smooth scroll storytelling
+
+Fonts (must choose from):
+• coolvetika
+• okaluera
+• walkway
+• deutschlander
+• delirium
+• heathergreen
+
+Color rules (mandatory):
+Do NOT use pure white or pure black.
+
+Instead of white use ONLY:
+• #f2f8fc
+• #fffff0
+• #fcfcf7
+• #f4f1f8
+• #f8f7f4
+• #fffafa
+
+Instead of black use ONLY:
+• #232323
+• #05141f
+• #181a18
+• #27292b
+• #1c1c26
+• #100c08
+
+Use gradients ONLY from:
+1. (#0a272d → #124a57)
+2. (#0b5379 → #8bd5c4)
+3. (#2a3294 → #4ba4dc)
+4. (#4e0b37 → #c10157)
+5. (#584a97 → #b45e67)
+6. (#141e30 → #3f5e96)
+7. (#2d1e2f → #4e2a4f)
+
+Tech stack for Replit:
+• React.js (or Next.js if supported)
+• Tailwind.css
+• Radix UI
+• shadcn/ui
+
+Modern UI expectations:
+• cinematic landing hero
+• glowing liquid-glass navbar
+• scroll-based scene transitions
+• staggered element reveals
+• particles + depth of field
+• neon micro-interactions
+• romantic button animations
+• dreamy cursor translations
+• luxurious spacing + typography
+
+Animation rules (extremely important):
+DO NOT use vanilla CSS animation.
+DO NOT use default transition effects.
+ALL animation must use imported libraries:
+
+Main animation libraries:
+• GSAP
+• Anime.js
+• Velocity.js
+• Popmotion
+• Framer Motion
+• Three.js
+• Mo.js
+
+Text / Button / Background / Click / Countdown animations must use:
+• reactbits
+• uiverse
+
+Cursor rules:
+• custom romantic cursor
+• glowing neon heart trail OR halo
+• interaction-based hover affection
+• subtle cinematic physics with popmotion
+
+Cinematic motion recipes:
+• parallax layers
+• z-depth particle field
+• bloom glow + screen blend
+• haze, fog, soft neon diffusion
+• slow lens-grade gradients
+• emotional timing curves (cubic-bezier)
+• staggered reveal storytelling
+
+System must output for Replit:
+1. UI/UX concept description
+2. cinematic motion design plan
+3. file + folder structure
+4. npm install commands
+5. package.json dependencies
+6. tailwind setup + config
+7. root CSS variables for colors
+8. typography pairing + imports
+9. reusable animation components
+10. cursor system logic
+11. particle canvas (Three.js / Drei)
+12. React components with code
+13. romantic scroll sections
+14. micro-interaction logic
+15. hero timeline + choreography
+16. countdown sequence (reactbits)
+17. click effects (uiverse)
+18. hover neon shimmer effects
+19. love motif particles
+20. final runnable code
+
+Website narrative:
+“Digital Neon Valentine in a Futuristic Sanctuary”
+Mixed with:
+“luxury dreamy cinematic romance”
+Mixed with:
+“soft intimate emotional warmth”
+
+Final requirement:
+Everything must run inside Replit cleanly and feel like a premium digital Valentine cinematic experience.

@@ -1,0 +1,208 @@
+Individual Game Instructions
+1. Truth Kiss
+
+Game Type: Spin Wheel
+
+Interaction: Player spins a wheel using drag or click.
+
+Outcome: Random truth or romantic action appears.
+
+Implementation Notes:
+
+Use GSAP for wheel spin and deceleration physics.
+
+Track previous results in state to avoid repeats.
+
+Animate confetti/heart particles on selection.
+
+2. Memory Heart
+
+Game Type: Memory Matching Cards
+
+Interaction: Player flips cards to match pairs.
+
+Outcome: Matching cards glow and disappear; all matches → success animation.
+
+Implementation Notes:
+
+Use Framer Motion for card flip animation.
+
+Maintain array of cards and matched state.
+
+Show completion modal with romantic message.
+
+3. Soul Bond
+
+Game Type: Timing / Rhythm Tap
+
+Interaction: Tap hearts in sync with pulsing animation.
+
+Outcome: Heart meter fills based on accuracy.
+
+Implementation Notes:
+
+Pulse animation via Anime.js.
+
+Track timing errors and accuracy score.
+
+Display glowing hearts for perfect taps.
+
+4. Eternal Flame
+
+Game Type: Drag & Light Candles
+
+Interaction: Drag flame to light virtual candles in correct order.
+
+Outcome: All candles lit triggers particle flame animation.
+
+Implementation Notes:
+
+Animate candle lighting with Mo.js glow effects.
+
+Track lit candles in state array.
+
+Optional: small animation for smoke or sparkling dust.
+
+5. Midnight Whisper
+
+Game Type: Click-to-Reveal Messages
+
+Interaction: Click floating hearts to reveal whispers/messages.
+
+Outcome: Displays romantic text with glow animation.
+
+Implementation Notes:
+
+Stagger heart elements on screen entrance with GSAP.
+
+Fade in/out text content dynamically.
+
+Keep messages loopable or random.
+
+6. Dawn Embrace
+
+Game Type: Slider Timing
+
+Interaction: Drag slider to align sunrise animation at correct point.
+
+Outcome: Correct alignment → sun shines and particle rays appear.
+
+Implementation Notes:
+
+Use Framer Motion for smooth slider animation.
+
+Animate sun glow and streaks on success.
+
+Track slider value in useState.
+
+7. Secret Sanctuary
+
+Game Type: Hidden Object Puzzle
+
+Interaction: Find hidden romantic items in a digital sanctuary scene.
+
+Outcome: All items found → soft particle effect.
+
+Implementation Notes:
+
+Use click detection on absolute-positioned elements.
+
+Animate found items with pop-up glow using Anime.js.
+
+Optional: add small hints or hover shine.
+
+8. Love Alchemy
+
+Game Type: Mix & Match / Crafting
+
+Interaction: Drag ingredients to potion cauldron to combine correctly.
+
+Outcome: Correct combination → glowing potion + particle sparks.
+
+Implementation Notes:
+
+Use Drag & Drop events with React state.
+
+Animate bubbling potion with motion-div.
+
+Show “success” animation only for correct combos.
+
+9. Melodic Love
+
+Game Type: Rhythm Tap / Music Notes
+
+Interaction: Tap notes in rhythm with musical track.
+
+Outcome: Heart meter fills; perfect completion plays romantic melody.
+
+Implementation Notes:
+
+Use GSAP or Anime.js for moving notes.
+
+Track input timing for scoring.
+
+Display neon particles on success.
+
+10. Captured Moment
+
+Game Type: Photo Snap Timing
+
+Interaction: Click to “take photo” at precise moment.
+
+Outcome: Capture glowy heart photo effect.
+
+Implementation Notes:
+
+Use click event + flash animation (Framer Motion).
+
+Track best timing score in state.
+
+Optionally save snapshot preview to gallery.
+
+11. Gift of Devotion
+
+Game Type: Choice / Quiz
+
+Interaction: Player selects gifts/options to express love.
+
+Outcome: Correct combinations produce romantic animations or messages.
+
+Implementation Notes:
+
+Store choice results in state.
+
+Animate gift glow and floating hearts.
+
+Use modal or popup for outcome.
+
+12. Serene Sips
+
+Game Type: Pouring / Timing Game
+
+Interaction: Drag pour to fill virtual cups accurately.
+
+Outcome: Correct pour triggers steam + glow animation.
+
+Implementation Notes:
+
+Animate liquid fill with Framer Motion or Anime.js.
+
+Track pour accuracy for scoring.
+
+Soft particle steam animation using Mo.js.
+
+Additional Instructions
+
+Shared UI Components: Buttons, cards, modals, and backgrounds should be reusable.
+
+Navigation: Navbar links to all 12 games.
+
+Animations: Heavy cinematic motion; use staggered reveals on page load.
+
+Particles: Floating hearts, glows, sparkles for all success interactions.
+
+Cursor: Romantic cursor effect persists across all games.
+
+State Tracking: Each game tracks progress independently and can reset.
+
+Accessibility: Hover tips for controls; text readable over glowing backgrounds.

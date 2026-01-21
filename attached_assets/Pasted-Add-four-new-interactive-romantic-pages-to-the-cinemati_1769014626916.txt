@@ -1,0 +1,104 @@
+Add four new interactive romantic pages to the cinematic Valentine website with the same rules and same aesthetic system (fonts, gradients, colors, animation libraries, cinematic mode, romantic digital sanctuary style, neon romance, particles, flow, glass morphism, dreamy gradients, cursor interactions, modern UI, scroll reveals, etc).
+
+Keep all first rules including:
+• same color restrictions (no pure white/black)
+• same gradient palette
+• same fonts (coolvetika, okaluera, walkway, deutschlander, delirium, heathergreen)
+• same tech stack (React, Tailwind, Radix, shadcn/ui)
+• same animation libraries (GSAP, Anime.js, Velocity.js, Popmotion, Framer Motion, Three.js, Mo.js, reactbits, uiverse)
+• same cinematic storytelling
+• same neon romantic digital sanctuary theme
+
+Add these pages:
+
+––––––––––––––––––
+1. GAMES PAGE (12 Lovers Games)
+––––––––––––––––––
+• romantic lovers mini–games experience
+• grid or scroll layout of 12 games
+• game cards must animate on hover + click
+• use micro-interactions (reactbits/uiverse)
+• titles must be romantic (e.g. "Truth Kiss", "Memory Heart", etc)
+• neon accent glow around cards on hover
+• allows navigating back to main site
+• fluid animations + Valentine motifs
+
+––––––––––––––––––
+2. MESSAGES PAGE (4 Romantic Messages)
+––––––––––––––––––
+• cinematic romantic love messages
+• 4 main message cards
+• each message has swipe arrows (left and right)
+• arrows animate on hover
+• swipe animation must be smooth and romantic using Framer Motion + GSAP
+• message text should feel poetic and sentimental
+• background can have subtle particles or haze
+• digital love letter aesthetic
+
+Interaction rules for messages:
+• arrow left → previous message
+• arrow right → next message
+• infinite looping between 1-4
+
+––––––––––––––––––
+3. COUNTDOWN PAGE
+––––––––––––––––––
+• countdown until the exact date:
+  2025/10/14 1:38
+• countdown must update live
+• countdown must use reactbits
+• cinematic ticking + neon time glows
+• particle hearts, haze, parallax optional
+• emotional romantic theme (anticipation)
+• after countdown ends, show a romantic text
+
+––––––––––––––––––
+4. MEMORIES PAGE (Image Slider)
+––––––––––––––––––
+• romantic memories photography slider
+• swipeable slider with arrows + drag
+• cinematic photographic transitions
+• can use Framer Motion or Anime.js
+• slider must have depth-of-field feeling (blur, glow, parallax)
+• images fade or slide with aesthetic motion sequencing
+• neon frame glow (subtle, romantic)
+• must allow future images to be added easily
+
+––––––––––––––––––
+NAVIGATION REQUIREMENTS
+––––––––––––––––––
+• add these pages into the navbar
+• navbar remains liquid glass
+• smooth transition between pages
+• maintain digital sanctuary + cinematic flow
+
+––––––––––––––––––
+ANIMATION EXPECTATIONS
+––––––––––––––––––
+Heavy motion + cinematic:
+• fluid transitions
+• stagger reveals
+• parallax layers
+• neon micro-interactions
+• particles + haze + glow
+• cursor romantic effects
+• soft physics motion via Popmotion
+
+––––––––––––––––––
+REPLIT OUTPUT EXPECTATION
+––––––––––––––––––
+Replit must output:
+1. updated component structure
+2. updated routing to include 4 new pages
+3. animations + systems for each page
+4. navigation updates
+5. JSX + Tailwind code for all pages
+6. message swipe mechanics
+7. countdown mechanics
+8. image slider mechanics
+9. minimal placeholder images if needed
+10. all imports + library usage
+11. file structure for new pages
+
+Goal:
+Make the 4 pages match the romantic cinematic neon digital sanctuary Valentine experience with fusion (A+B+C+D).
